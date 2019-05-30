@@ -1,0 +1,101 @@
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.exe.config
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.exe
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.pdb
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\MainWindow.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\App.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain_MarkupCompile.cache
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain_MarkupCompile.lref
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\MainWindow.baml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.g.resources
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.exe
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.pdb
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CopyComplete
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemHomeView.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemHomeView.baml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\NowPlayingView.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\TopRatedView.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\UpcomingMoviesView.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\NowPlayingView.baml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\TopRatedView.baml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\UpcomingMoviesView.baml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemFilmView.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemFilmView.baml
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.exe.config
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.exe
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.pdb
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignColors.dll
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\Newtonsoft.Json.dll
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Download\InfoFilms\InfoFilmsMain\bin\Debug\Newtonsoft.Json.xml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csprojAssemblyReference.cache
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemFilmView.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemHomeView.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\MainWindow.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\NowPlayingView.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\TopRatedView.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\UpcomingMoviesView.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\App.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain_MarkupCompile.cache
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain_MarkupCompile.lref
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemFilmView.baml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemHomeView.baml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\MainWindow.baml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\NowPlayingView.baml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\TopRatedView.baml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\View\UpcomingMoviesView.baml
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.g.resources
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.Properties.Resources.resources
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.GenerateResource.cache
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CoreCompileInputs.cache
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CopyComplete
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.exe
+D:\Download\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.pdb
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.exe.config
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.exe
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\InfoFilmsMain.pdb
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemFilmView.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemHomeView.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\MainWindow.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\NowPlayingView.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\TopRatedView.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\UpcomingMoviesView.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\App.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain_MarkupCompile.cache
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain_MarkupCompile.lref
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemFilmView.baml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\ItemHomeView.baml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\MainWindow.baml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\NowPlayingView.baml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\TopRatedView.baml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\View\UpcomingMoviesView.baml
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.g.resources
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CopyComplete
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.exe
+C:\Users\Aleksandr\Desktop\Новая папка (3)\InfoFilms\InfoFilmsMain\obj\Debug\InfoFilmsMain.pdb
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\MyListView.g.cs
+C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\View\MyListView.baml
