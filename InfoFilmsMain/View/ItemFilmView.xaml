@@ -12,97 +12,100 @@
         <local1:ItemFilmViewModel></local1:ItemFilmViewModel>
     </UserControl.DataContext>
     <Grid>
-        
+
         <ScrollViewer VerticalScrollBarVisibility="Hidden" Grid.Row="1">
             <ItemsControl ItemsSource="{Binding Film}" Grid.Row="1">
                 <ItemsControl.ItemTemplate>
                     <DataTemplate>
-                        
+
                         <StackPanel>
-                            
-                            
-                            <Grid  >
+
+                            <Grid>
                                 <Grid.Background>
-                                    
-                                    <ImageBrush ImageSource="{Binding Backdrop_path}" Stretch="Fill" Opacity="0.6"/>
+
+                                    <ImageBrush ImageSource="{Binding Backdrop_path}" Stretch="Fill" />
+
                                 </Grid.Background>
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="330"></ColumnDefinition>
-                                    <ColumnDefinition  Width="470"></ColumnDefinition>
-                                </Grid.ColumnDefinitions>
-                                <Button  Foreground="White" BorderBrush="#FF29E7E3" Background="Black" 
+                                <Grid   >
+                                    <Grid.Background>
+                                        <ImageBrush ImageSource="/InfoFilmsMain;component/Resources/black.jpg" Opacity="0.5" Stretch="Fill"/>
+                                    </Grid.Background>
+
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="330"></ColumnDefinition>
+                                        <ColumnDefinition  Width="470"></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Button  Foreground="White" BorderBrush="#FF29E7E3" Background="Black" 
                                          Command="{Binding DataContext.Back, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}"
                                          Width="79" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top">
-                                    <md:PackIcon Kind="ArrowLeft" Width="36" Height="30" ></md:PackIcon>
-                                </Button>
-                                <Image Source="{Binding Poster_path}" Grid.Column="0" Height="540" Width="250"   >
-                                    <Image.Effect>
-                                        <DropShadowEffect/>
-                                    </Image.Effect>
-                                </Image>
+                                        <md:PackIcon Kind="ArrowLeft" Width="36" Height="30" ></md:PackIcon>
+                                    </Button>
+                                    <Image Source="{Binding Poster_path}" Grid.Column="0" Height="540" Width="250"   Opacity="1">
 
-                                <StackPanel Grid.Column="1" Margin="0,50,10,0" >
-                                    <StackPanel.Effect>
-                                        <DropShadowEffect/>
-                                    </StackPanel.Effect>
+                                    </Image>
 
-                                    <StackPanel >
-                                        <TextBlock Text="{Binding Title}" TextWrapping="Wrap" FontSize="25" Margin="0,10,0,0"  Foreground="White" FontFamily="Segoe UI Black">
-                                            <TextBlock.Effect>
-                                                <DropShadowEffect/>
-                                            </TextBlock.Effect>
+                                    <StackPanel Grid.Column="1" Margin="0,50,10,0" >
+
+
+                                        <StackPanel >
+                                            <TextBlock Text="{Binding Title}" TextWrapping="Wrap" FontSize="25" Margin="0,10,0,0"  Foreground="White" FontFamily="Segoe UI Black">
+                                                <TextBlock.Effect>
+                                                    <DropShadowEffect/>
+                                                </TextBlock.Effect>
                                         <Run>(</Run>
                                             <Run Text="{Binding Release_date}"  FontSize="20" Foreground="White"  FontWeight="Normal" FontFamily="Myanmar Text"></Run>
                                             <Run>)</Run>
-                                        </TextBlock>
+                                            </TextBlock>
 
 
-                                    </StackPanel>
-                                    <StackPanel Orientation="Horizontal">
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
 
-                                        <TextBlock Text="{Binding Vote_average}" Margin="10,10,0,0" FontFamily="Arial" FontSize="30" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                            <TextBlock Text="{Binding Vote_average}" Margin="10,10,0,0" FontFamily="Arial" FontSize="30" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center">
 
-                                        </TextBlock>
-                                        <TextBlock Margin="0,8,0,0">
+                                            </TextBlock>
+                                            <TextBlock Margin="0,8,0,0">
                                             <md:PackIcon  Margin="0,5,0,0"  Kind="Percent" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" Width="30" Height="30">
                                                 
                                             </md:PackIcon>
-                                        </TextBlock>
-                                        <StackPanel Margin="5,12,0,0">
-                                            <TextBlock Foreground="White" Text="User" FontSize="13"></TextBlock>
-                                            <TextBlock Text="Score" Foreground="White" FontSize="13"></TextBlock>
-                                        </StackPanel>
+                                            </TextBlock>
+                                            <StackPanel Margin="5,12,0,0">
+                                                <TextBlock Foreground="White" Text="User" FontSize="13"></TextBlock>
+                                                <TextBlock Text="Score" Foreground="White" FontSize="13"></TextBlock>
+                                            </StackPanel>
 
-                                        <Button  Margin="50,13,0,0" Foreground="White" BorderBrush="#FF29E7E3" Background="Black" Width="35" Height="35" Command="{Binding DataContext.AddToList, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}"
+                                            <Button  Margin="50,13,0,0" Foreground="White" BorderBrush="#FF29E7E3" Background="Black" Width="35" Height="35" Command="{Binding DataContext.AddToList, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}"
                                              CommandParameter="{Binding }">
-                                            <md:PackIcon Kind="PlaylistAdd"></md:PackIcon>
-                                        </Button>
-                                        <Button   Margin="10,13,0,0" Foreground="White" BorderBrush="#FF29E7E3" Background="Black"  Command="{Binding DataContext.PlayTrailer, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}"
+                                                <md:PackIcon Kind="Heart"></md:PackIcon>
+                                            </Button>
+                                            <Button   Margin="10,13,0,0" Foreground="White" BorderBrush="#FF29E7E3" Background="Black"  Command="{Binding DataContext.PlayTrailer, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}"
                                              CommandParameter="{Binding}" >
-                                            Play tailer
-                                        </Button>
-                                    </StackPanel>
-                                    <TextBlock Margin="10,20,0,0" Text="Run Time" FontFamily="Segoe UI Black" FontSize="16" Foreground="White"></TextBlock>
-                                    <TextBlock Margin="10,5,10,0" Text="{Binding Runtime}" FontFamily="Segoe UI" TextWrapping="Wrap" FontSize="14" Foreground="White">
+                                                Play tailer
+                                            </Button>
+                                        </StackPanel>
+                                        <TextBlock Margin="10,20,0,0" Text="Run Time" FontFamily="Segoe UI Black" FontSize="16" Foreground="White"></TextBlock>
+                                        <TextBlock Margin="10,5,10,0" Text="{Binding Runtime}" FontFamily="Segoe UI" TextWrapping="Wrap" FontSize="14" Foreground="White">
                                         <Run >min.</Run>
-                                    </TextBlock>
-                                    <TextBlock Margin="10,10,0,0" Text="Overview" FontFamily="Segoe UI Black" FontSize="16" Foreground="White"></TextBlock>
-                                    <TextBlock Margin="10,5,10,0" Text="{Binding Overview}" FontFamily="Segoe UI" TextWrapping="Wrap" FontSize="14" Foreground="White"></TextBlock>
-                                    <TextBlock Margin="10,20,0,5" Text="Genres" FontFamily="Segoe UI Black" FontSize="16" Foreground="White"></TextBlock>
+                                        </TextBlock>
+                                        <TextBlock Margin="10,10,0,0" Text="Overview" FontFamily="Segoe UI Black" FontSize="16" Foreground="White"></TextBlock>
+                                        <TextBlock Margin="10,5,10,0" Text="{Binding Overview}" FontFamily="Segoe UI" TextWrapping="Wrap" FontSize="14" Foreground="White"></TextBlock>
+                                        <TextBlock Margin="10,20,0,5" Text="Genres" FontFamily="Segoe UI Black" FontSize="16" Foreground="White"></TextBlock>
 
-                                    <ItemsControl ItemsSource="{Binding Genres_list}" >
-                                        <ItemsControl.ItemTemplate>
-                                            <DataTemplate >
-                                                <TextBlock Text="{Binding Genres_Name}" Margin="10,5,10,0"  FontFamily="Segoe UI" TextWrapping="Wrap" FontSize="14" Foreground="White"></TextBlock>
-                                            </DataTemplate>
-                                        </ItemsControl.ItemTemplate>
-                                        <ItemsControl.ItemsPanel>
-                                            <ItemsPanelTemplate>
-                                                <UniformGrid  Columns="5"  />
-                                            </ItemsPanelTemplate>
-                                        </ItemsControl.ItemsPanel>
-                                    </ItemsControl>
-                                </StackPanel>
+                                        <ItemsControl ItemsSource="{Binding Genres_list}" >
+                                            <ItemsControl.ItemTemplate>
+                                                <DataTemplate >
+                                                    <TextBlock Text="{Binding Genres_Name}" Margin="10,5,10,0"  FontFamily="Segoe UI" TextWrapping="Wrap" FontSize="14" Foreground="White"></TextBlock>
+                                                </DataTemplate>
+                                            </ItemsControl.ItemTemplate>
+                                            <ItemsControl.ItemsPanel>
+                                                <ItemsPanelTemplate>
+                                                    <UniformGrid  Columns="5"  />
+                                                </ItemsPanelTemplate>
+                                            </ItemsControl.ItemsPanel>
+                                        </ItemsControl>
+                                    </StackPanel>
+                                </Grid>
                             </Grid>
                         </StackPanel>
                     </DataTemplate>

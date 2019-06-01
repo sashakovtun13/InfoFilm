@@ -1,0 +1,59 @@
+InfoFilms2019@gmail.com
+
+filmsapi2019
+
+for Api
+
+login: InfoFilms
+pass:filmsapi2019
+
+apiKay: 6adcfee0eaa50e9be7a88a0ddd5db2dd
+
+
+original_title: "Avengers: Endgame"
+id: 299534
+release_date: "2019-04-24"
+
+-----------
+!!! List(
+V	Popular(https://api.themoviedb.org/3/movie/popular?page=1&language=en-US&api_key=6adcfee0eaa50e9be7a88a0ddd5db2dd),
+
+inf,models 	Top Rated(https://api.themoviedb.org/3/movie/top_rated?page=1&language=en-US&api_key=6adcfee0eaa50e9be7a88a0ddd5db2dd),
+
+inf,models  	Upcoming(https://api.themoviedb.org/3/movie/upcoming?page=1&language=en-US&api_key=6adcfee0eaa50e9be7a88a0ddd5db2dd),
+
+inf,models 	Now Playing(https://api.themoviedb.org/3/movie/now_playing?page=1&language=en-US&api_key=6adcfee0eaa50e9be7a88a0ddd5db2dd)
+    	)
+
+{
+id
+vote_average
+title
+poster_path
+overview 210
+release_date
+}
+€
+Film
+//Get film
+(https://api.themoviedb.org/3/movie/299534?language=en-US&api_key=6adcfee0eaa50e9be7a88a0ddd5db2dd)
+//
+id€
+original_title
+overview
+poster_path
+backdrop_path
+runtime
+release_date
+`vote_average
+`trailer
+`list: genres
+{
+id
+name
+}
+
+
+
+
+

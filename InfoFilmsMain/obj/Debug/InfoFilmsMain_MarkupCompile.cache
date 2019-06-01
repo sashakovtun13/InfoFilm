@@ -1,19 +1,19 @@
 ﻿InfoFilmsMain
 
 
-exe
+winexe
 C#
 .cs
-C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Debug\
+D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\
 InfoFilmsMain
 none
 false
 DEBUG;TRACE
-C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\App.xaml
+D:\GitHub\InfoFilm\InfoFilmsMain\App.xaml
 7-870394472
 
 2995163129
-17697831461
+18-851003997
 View\ItemFilmView.xaml;View\ItemHomeView.xaml;View\MainWindow.xaml;View\MyListView.xaml;View\NowPlayingView.xaml;View\TopRatedView.xaml;View\UpcomingMoviesView.xaml;
 
 False

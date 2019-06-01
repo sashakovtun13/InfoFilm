@@ -34,8 +34,8 @@ namespace InfoFilmsMain.Infrastructure
             string Title = objDetails["original_title"].ToString();
             string Release_date = objDetails["release_date"].ToString();
             string Overview = objDetails["overview"].ToString();
-            string Poster_path = "https://image.tmdb.org/t/p/w185_and_h278_bestv2/" + objDetails["poster_path"].ToString();
-            string Backdrop_path = "https://image.tmdb.org/t/p/w185_and_h278_bestv2/" + objDetails["backdrop_path"].ToString();
+            string Poster_path = "https://image.tmdb.org/t/p/w500/" + objDetails["poster_path"].ToString();
+            string Backdrop_path = "https://image.tmdb.org/t/p/w500/" + objDetails["backdrop_path"].ToString();
             string Runtime = objDetails["runtime"].ToString();
             string Trailer = "";
             try
