@@ -91,6 +91,7 @@ namespace InfoFilmsMain.MainViewModels
                         Task.Factory.StartNew(() => {
                             MyListViewModel myListViewModel = new MyListViewModel();
                             myListViewModel.Add((obj as FullFilmInfo).Id);
+                            
                         });
                     }));
             }

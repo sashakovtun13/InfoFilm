@@ -36,9 +36,9 @@ namespace InfoFilmsMain.MainViewModels
         }
         public void Add(int Id)
         {
+
             
-            
-                    List<MyList> addList = new List<MyList>();
+            List<MyList> addList = new List<MyList>();
                     var addFilm = new MyList() { id = Id };
                     addList.Add(addFilm);
                     foreach (var i in MyListCol)
@@ -49,10 +49,7 @@ namespace InfoFilmsMain.MainViewModels
                     }
                     funk.SerializeData(addList);
                     MyListCol = funk.DeserializeData();
-                    MessageBox.Show("Added");
-                
-                
-            
+            MessageBox.Show("Added");
         }
 
 

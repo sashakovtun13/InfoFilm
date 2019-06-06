@@ -131,3 +131,5 @@ D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.Fody.CopyLocal.c
 D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\InfoFilmsMain.csproj.CopyComplete
 D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\InfoFilmsMain.exe
 D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\InfoFilmsMain.pdb
+D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\View\AddedView.g.cs
+D:\GitHub\InfoFilm\InfoFilmsMain\obj\Debug\View\AddedView.baml

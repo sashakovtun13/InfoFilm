@@ -62,3 +62,5 @@ D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\InfoFilmsMain.csproj.Fody.CopyLocal
 D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\InfoFilmsMain.csproj.CopyComplete
 D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\InfoFilmsMain.exe
 D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\InfoFilmsMain.pdb
+D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\View\AddedView.g.cs
+D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\View\AddedView.baml

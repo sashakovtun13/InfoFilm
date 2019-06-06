@@ -48,6 +48,8 @@ namespace InfoFilmsMain.MainViewModels
 
                         ItemHomeView.MainGrid.Children.Clear();
                         ItemHomeView.MainGrid.Children.Add(usc); //передача между контролами
+
+                        
                     }));
             }
            

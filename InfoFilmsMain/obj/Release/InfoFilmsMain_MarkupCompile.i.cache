@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\obj\Release\
+D:\GitHub\InfoFilm\InfoFilmsMain\obj\Release\
 InfoFilmsMain
 none
 false
 TRACE
-C:\Users\Aleksandr\Desktop\InfoFilms\InfoFilmsMain\App.xaml
-7-870394472
+D:\GitHub\InfoFilm\InfoFilmsMain\App.xaml
+81729979903
 
-30-708976573
-18-666512063
-View\ItemFilmView.xaml;View\ItemHomeView.xaml;View\MainWindow.xaml;View\MyListView.xaml;View\NowPlayingView.xaml;View\TopRatedView.xaml;View\UpcomingMoviesView.xaml;
+31972759204
+18-851003997
+View\AddedView.xaml;View\ItemFilmView.xaml;View\ItemHomeView.xaml;View\MainWindow.xaml;View\MyListView.xaml;View\NowPlayingView.xaml;View\TopRatedView.xaml;View\UpcomingMoviesView.xaml;
 
 True
 

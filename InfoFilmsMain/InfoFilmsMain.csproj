@@ -91,6 +91,9 @@
     <Compile Include="Model\Genres.cs" />
     <Compile Include="Model\MyList.cs" />
     <Compile Include="Model\MyListFilmTitle.cs" />
+    <Compile Include="View\AddedView.xaml.cs">
+      <DependentUpon>AddedView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\ItemFilmView.xaml.cs">
       <DependentUpon>ItemFilmView.xaml</DependentUpon>
     </Compile>
@@ -106,6 +109,10 @@
     <Compile Include="View\UpcomingMoviesView.xaml.cs">
       <DependentUpon>UpcomingMoviesView.xaml</DependentUpon>
     </Compile>
+    <Page Include="View\AddedView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\ItemFilmView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
